@@ -78,7 +78,8 @@ The goal is to clean raw data, extract meaningful insights, and build a professi
 
 ## 🖥️ Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+<img width="1152" height="720" alt="image" src="https://github.com/user-attachments/assets/b8620979-e3d0-42b6-85eb-b57ba3ae6eb0" />
+
 
 ---
 
